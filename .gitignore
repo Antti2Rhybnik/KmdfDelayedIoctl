@@ -1,0 +1,7 @@
+sys/x64/*
+sys/Debug/*
+
+exe/x64/*
+exe/Debug/*
+
+.vs/*
